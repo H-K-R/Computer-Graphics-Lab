@@ -9,7 +9,7 @@
 - **Simulate Visual Surface Detection ✓**
 - **Clip some lines with the Cohen Sutherland Line Clipping algorithm ✓**
 - **Clip polygon with the Sutherland Hodgman Polygon Clipping algorithm** 
-- **Create a Bejier Curve ✓**
+- **Create a Bezier Curve ✓**
 - **Draw the Snowflake Pattern with Fractal Geometry ✓**
 
 ## CodeBlocks Setup Instructions
